@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[ParaBank | Welcome | Online Banking]]>
+    </line>
+    <line>
+      <![CDATA[ParaBank | About Us]]>
+    </line>
+    <line>
+      <![CDATA[ParaBank | Services]]>
+    </line>
+    <line>
+      <![CDATA[Automated Software Testing Tool Suite | Parasoft]]>
+    </line>
+    <line>
+      <![CDATA[Automated Software Testing Solutions For Every Testing Need]]>
+    </line>
+    <line>
+      <![CDATA[Welcome to the Forums]]>
+    </line>
+    <line>
+      <![CDATA[ParaBank | Site Map]]>
+    </line>
+    <line>
+      <![CDATA[ParaBank | Customer Care]]>
+    </line>
+    <line>
+      <![CDATA[© Parasoft. All rights reserved.]]>
+    </line>
+    <line>
+      <![CDATA[Visit us at:]]>
+    </line>
+    <line>
+      <![CDATA[Automated Testing to Deliver Superior Quality Software | Parasoft]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-08-01T09:36:58 IST" name="Default suite" finished-at="2022-08-01T09:37:28 IST" duration-ms="29710">
+    <groups>
+    </groups>
+    <test started-at="2022-08-01T09:36:58 IST" name="Default test" finished-at="2022-08-01T09:37:28 IST" duration-ms="29710">
+      <class name="testCase.Verify_Fotter_Page">
+        <test-method is-config="true" signature="launch_Browser()[pri:0, instance:testCase.Verify_Fotter_Page@43dac38f]" started-at="2022-08-01T09:36:46 IST" name="launch_Browser" finished-at="2022-08-01T09:36:58 IST" duration-ms="11772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_Browser -->
+        <test-method signature="verify_Fotter_Page()[pri:0, instance:testCase.Verify_Fotter_Page@43dac38f]" started-at="2022-08-01T09:36:58 IST" name="verify_Fotter_Page" finished-at="2022-08-01T09:37:28 IST" duration-ms="29395" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ParaBank | Welcome | Online Banking]]>
+            </line>
+            <line>
+              <![CDATA[ParaBank | About Us]]>
+            </line>
+            <line>
+              <![CDATA[ParaBank | Services]]>
+            </line>
+            <line>
+              <![CDATA[Automated Software Testing Tool Suite | Parasoft]]>
+            </line>
+            <line>
+              <![CDATA[Automated Software Testing Solutions For Every Testing Need]]>
+            </line>
+            <line>
+              <![CDATA[Welcome to the Forums]]>
+            </line>
+            <line>
+              <![CDATA[ParaBank | Site Map]]>
+            </line>
+            <line>
+              <![CDATA[ParaBank | Customer Care]]>
+            </line>
+            <line>
+              <![CDATA[© Parasoft. All rights reserved.]]>
+            </line>
+            <line>
+              <![CDATA[Visit us at:]]>
+            </line>
+            <line>
+              <![CDATA[Automated Testing to Deliver Superior Quality Software | Parasoft]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_Fotter_Page -->
+        <test-method is-config="true" signature="browser_close()[pri:0, instance:testCase.Verify_Fotter_Page@43dac38f]" started-at="2022-08-01T09:37:28 IST" name="browser_close" finished-at="2022-08-01T09:37:28 IST" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+      </class> <!-- testCase.Verify_Fotter_Page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
